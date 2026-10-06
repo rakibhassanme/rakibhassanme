@@ -6,7 +6,7 @@
 <div align="right">
 
 ![profile count](https://komarev.com/ghpvc/?username=rakibcoding&color=blue)&nbsp;
-[![GitHub](https://img.shields.io/github/followers/justrakibhassan?label=follow&style=social)](https://github.com/justrakibhassan)&nbsp;
+[![GitHub](https://img.shields.io/github/followers/rakibhassanme?label=follow&style=social)](https://github.com/justrakibhassan)&nbsp;
 </div>
 
 ### About Me
@@ -20,10 +20,10 @@ Full-Stack Developer specializing in SaaS & AI products.
 
 ### 📫 Reach me out :
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:sayhirakib@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justrakibhassan/)
-[![Discord Badge](https://img.shields.io/badge/Discord-blue?&logo=discord&logoColor=white)](https://discord.com/users/rakib_hassan)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-9333ea.svg?&logo=redis&logoColor=white)](https://rakibhassan.vercel.app/)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?&logo=Gmail&logoColor=white)](mailto:rakib@rakibhaassan.me)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibhassanme/)
+[![Discord Badge](https://img.shields.io/badge/Discord-blue?&logo=discord&logoColor=white)](https://discord.com/users/rakibhassanme)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-9333ea.svg?&logo=redis&logoColor=white)](https://rakibhassan.me/)
 
 <!-- Border Line -->
 #
