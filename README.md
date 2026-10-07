@@ -22,6 +22,6 @@ Full-Stack Developer specializing in SaaS & AI products.
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,express,tailwindcss,postgresql,mongodb,prisma,git" alt="Rakib's Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,tailwindcss,nodejs,express,postgresql,mongodb,prisma,git" alt="Rakib's Tech Stack" />
 </p>
 
