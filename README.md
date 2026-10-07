@@ -15,7 +15,18 @@ Full-Stack Developer specializing in SaaS & AI products.
 
 ### Tech Stack
 
-**Next.js**, **TypeScript**, **React**, **Tailwind CSS**, **Node.js**, **Express**, **PostgreSQL**, **Prisma**, **MongoDB**, **Git**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="18" height="18" alt="Next.js" align="middle" /> <b>Next.js</b> &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="18" height="18" alt="TypeScript" align="middle" /> <b>TypeScript</b> &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="18" height="18" alt="React" align="middle" /> <b>React</b> &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="18" height="18" alt="Tailwind CSS" align="middle" /> <b>Tailwind CSS</b> &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="18" height="18" alt="Node.js" align="middle" /> <b>Node.js</b> &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="18" height="18" alt="Express" align="middle" /> <b>Express</b> &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="18" height="18" alt="PostgreSQL" align="middle" /> <b>PostgreSQL</b> &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" width="18" height="18" alt="Prisma" align="middle" /> <b>Prisma</b> &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="18" height="18" alt="MongoDB" align="middle" /> <b>MongoDB</b> &nbsp;·&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="18" height="18" alt="Git" align="middle" /> <b>Git</b>
+</p>
 
 ---
 
