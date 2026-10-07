@@ -15,27 +15,23 @@ Full-Stack Developer specializing in SaaS & AI products.
 
 ### Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="18" height="18" alt="Next.js" align="middle" /> <b>Next.js</b> &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="18" height="18" alt="TypeScript" align="middle" /> <b>TypeScript</b> &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="18" height="18" alt="React" align="middle" /> <b>React</b> &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="18" height="18" alt="Tailwind CSS" align="middle" /> <b>Tailwind CSS</b> &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="18" height="18" alt="Node.js" align="middle" /> <b>Node.js</b> &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="18" height="18" alt="Express" align="middle" /> <b>Express</b> &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" width="18" height="18" alt="PostgreSQL" align="middle" /> <b>PostgreSQL</b> &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=prisma" width="18" height="18" alt="Prisma" align="middle" /> <b>Prisma</b> &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="18" height="18" alt="MongoDB" align="middle" /> <b>MongoDB</b> &nbsp;·&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="18" height="18" alt="Git" align="middle" /> <b>Git</b>
-</p>
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=flat&logo=tailwindcss&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express-111111?style=flat&logo=express&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-111111?style=flat&logo=prisma&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=white)
 
 ---
 
 ### Connect
 
-<p align="center">
-  <a href="mailto:rakib@rakibhassan.me"><img src="https://img.shields.io/badge/-Email-c14438?logo=Gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/rakibhassanme/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc2NCAxLjc1Ljc5IDEuNzUgMS43NjR6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWgzdjEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNyAyLjQ3NnY2Ljc1OXoiLz48L3N2Zz4=" alt="LinkedIn" /></a>
-  <a href="https://discord.com/users/rakibhassanme"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://rakibhassan.me/"><img src="https://img.shields.io/badge/Portfolio-9333ea?logo=safari&logoColor=white" alt="Portfolio" /></a>
-</p>
+[![Email](https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white)](mailto:rakib@rakibhassan.me)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAwaC0xNGMtMi43NjEgMC01IDIuMjM5LTUgNXYxNGMwIDIuNzYxIDIuMjM5IDUgNSA1aDE0YzIuNzYyIDAgNS0yLjIzOSA1LTV2LTE0YzAtMi43NjEtMi4yMzgtNS01LTV6bS0xMSAxOWgtM3YtMTFoM3YxMXptLTEuNS0xMi4yNjhjLS45NjYgMC0xLjc1LS43OS0xLjc1LTEuNzY0cy43ODQtMS43NjQgMS43NS0xLjc2NCAxLjc1Ljc5IDEuNzUgMS43NjR6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWgzdjEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNyAyLjQ3NnY2Ljc1OXoiLz48L3N2Zz4=)](https://www.linkedin.com/in/rakibhassanme/)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-111111?style=flat&logo=discord&logoColor=white)](https://discord.com/users/rakibhassanme)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=safari&logoColor=white)](https://rakibhassan.me/)
 
