@@ -25,10 +25,3 @@ Full-Stack Developer specializing in SaaS & AI products.
   <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,express,tailwindcss,postgresql,mongodb,prisma,git" alt="Rakib's Tech Stack" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com/?user=rakibhassanme&theme=algolia&card_width=800" alt="GitHub Streak" />
-</p>
