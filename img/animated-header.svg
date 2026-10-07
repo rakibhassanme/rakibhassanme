@@ -11,10 +11,6 @@
                 letter-spacing: -2px;
             }
 
-            .dot {
-                fill: #10b981;
-            }
-
             .title {
                 font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
                 font-size: 20px;
@@ -23,10 +19,6 @@
                 text-anchor: middle;
                 dominant-baseline: middle;
                 letter-spacing: 2px;
-            }
-            
-            .accent {
-                fill: #10b981;
             }
         </style>
     </defs>
@@ -38,7 +30,7 @@
     <g transform="translate(0, 0)">
         <!-- Name -->
         <text x="400" y="110" class="name">
-            Rakib Hassan<tspan class="dot">.</tspan>
+            Rakib Hassan
         </text>
         
         <!-- Title -->
@@ -47,3 +39,4 @@
         </text>
     </g>
 </svg>
+
